@@ -1,2 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/n5buws4luahh07w3?svg=true)](https://ci.appveyor.com/project/ValiullinAd/api-ci-01-nae6m)
+[![Build status](https://ci.appveyor.com/api/projects/status/2njmfamhdbqqdk2w/branch/master?svg=true)](https://ci.appveyor.com/project/ValiullinAd/api-ci-02/branch/master)
+
+
 

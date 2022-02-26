@@ -10,7 +10,7 @@ public class PostTest {
         // Предусловия
         given()
                 .baseUri("https://postman-echo.com")
-                .body("test data fail") // отправляемые данные (заголовки и query можно выставлять аналогично)
+                .body("test data") // отправляемые данные (заголовки и query можно выставлять аналогично)
                 // Выполняемые действия
                 .when()
                 .post("/post")
